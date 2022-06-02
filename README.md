@@ -1,8 +1,11 @@
-### Hi there 👋
+## Hi there 👋 I'm Federica.
+I live in the beautiful Hudson Valley with my dog Bowie.
+
+### If you picture a Venn diagram of Strategic thinking, Design and user focus, and technical chops, I like to think that I belong in that middle intersection. 
 
 <!--
 **federicca/federicca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-If you picture a Venn diagram of Strategic thinking, Design and user focus, and technical chops, I like to think that I belong in that middle intersection. 
+
 
 Here are some ideas to get you started:
 
@@ -21,5 +24,5 @@ I am a product leader with a design background who has spent more than a decade 
 
 Recently, I finished my Masters in Computer Science, so I've been brushing up my technical chops too!
 
-I also research fairness and ethics in AI and like to speak publicly about this and other human-tech topics around the world.
+
 
